@@ -1,0 +1,12 @@
+body { background-color:#C0C0C0; }
+.sf_main_header { color:#FFFFFF; }
+.sf_sub_header { color:#None; }
+.sf_pagetitle { color:#None; }
+.sf_footer { color:#000000; }
+.sf_navigation ul li a { color:#000000; }
+.sf_navigation ul li a:visited { color:#None; }
+.sf_navigation ul li a:hover { color:#000000; }
+a { color:#Browser Default; }
+a:link { color:#Browser Default; }
+a:visited { color:#Browser Default; }
+a:hover { color:#5DBDEC; }
